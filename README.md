@@ -1,0 +1,2 @@
+# django
+only for learning
